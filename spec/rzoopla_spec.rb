@@ -1,8 +1,8 @@
 require 'spec_helper'
 
-describe Zoopla do
+describe RZoopla do
   it 'has a version number' do
-    expect(Zoopla::VERSION).not_to be nil
+    expect(RZoopla::VERSION).not_to be nil
   end
 
   it 'does something useful' do
